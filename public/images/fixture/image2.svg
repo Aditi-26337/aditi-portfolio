@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#07111f"/>
+  <rect x="60" y="60" width="1480" height="880" rx="36" fill="#0f203d" stroke="#38bdf8" stroke-width="4"/>
+  <rect x="110" y="120" width="480" height="60" rx="18" fill="#18395a"/>
+  <rect x="110" y="210" width="300" height="24" rx="12" fill="#7dd3fc"/>
+  <rect x="110" y="250" width="420" height="24" rx="12" fill="#1e3a5f"/>
+  <rect x="110" y="310" width="720" height="220" rx="24" fill="#122b4f"/>
+  <rect x="860" y="310" width="300" height="220" rx="24" fill="#18395a"/>
+  <rect x="1180" y="310" width="280" height="220" rx="24" fill="#0d1d33"/>
+  <rect x="110" y="560" width="520" height="260" rx="28" fill="#18395a"/>
+  <rect x="660" y="560" width="360" height="260" rx="28" fill="#122b4f"/>
+  <rect x="1040" y="560" width="420" height="260" rx="28" fill="#0d1d33"/>
+  <circle cx="1380" cy="172" r="64" fill="#38bdf8" fill-opacity="0.18"/>
+  <circle cx="1380" cy="172" r="30" fill="#38bdf8"/>
+  <text x="110" y="180" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Fixture</text>
+  <text x="110" y="706" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600">Desktop view ? image 2</text>
+  <text x="110" y="748" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="24">Responsive layout, polished UI, and clear project storytelling.</text>
+</svg>
